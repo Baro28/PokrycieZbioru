@@ -1,0 +1,2 @@
+# PokrycieZbioru
+Small java project
